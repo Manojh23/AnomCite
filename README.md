@@ -42,7 +42,7 @@ This repository contains two primary Jupyter Notebooks for analyzing citations i
     - Outputs a CSV file (`citation_contexts.csv`) containing citation contexts, the number of citations per reference, paper titles, and author names.
   
 - **detection.ipynb:**
-    - Outputs an analysis indicating whether specific self-citations are anomalous based on the provided contexts and summaries.
+    - Outputs an analysis indicating whether specific self-citations are essential or non-essential based on the provided contexts and summaries.
 
 ## Contact
 
