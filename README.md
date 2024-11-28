@@ -19,8 +19,6 @@ This repository contains two primary Jupyter Notebooks for analyzing citations i
 
     
 
-### Data Preparation
-- After receiving the dataset via email, place the data in the designated `data/` directory.
 
 ### Running the Notebooks
 
