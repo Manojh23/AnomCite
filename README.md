@@ -1,4 +1,4 @@
-# Capstone
+# AnomCite
 
 This repository contains two primary Jupyter Notebooks for analyzing citations in research papers:
 
